@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679586635862",
+    "project_id": "appvidientu",
+    "storage_bucket": "appvidientu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679586635862:android:53b42dd63be96c922ddbf7",
+        "android_client_info": {
+          "package_name": "com.hoanganhdangcode.vidientu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUsTATQ0xCZt9fVtDw0iAT-MgN0pgkrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
